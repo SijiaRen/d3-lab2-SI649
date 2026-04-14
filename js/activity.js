@@ -1,5 +1,5 @@
 // Find TODO statements and complete them to build the interactive airline route map.
-
+const d3 = window.d3;
 // TODO: add your uniqname to the HTML (use id #uniqname) file so that your work can be identified 
 d3.select("#uniqname").text("sjren");
 
